@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Filteraply::VERSION
   spec.authors       = ["Paweł Dawczak"]
   spec.email         = ["pawel.dawczak@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Helps with filters you want to apply in your controllers.}
+  spec.description   = %q{Define what filters|sorting might be applied to your models.}
+  spec.homepage      = "https://github.com/pdawczak/filteraply"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
