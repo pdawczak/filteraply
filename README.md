@@ -1,4 +1,4 @@
-# Filteraply
+# Filteraply [![Build Status](https://travis-ci.org/pdawczak/filteraply.svg)](https://travis-ci.org/pdawczak/filteraply)
 
 Helps with filters you want to apply in your controllers.
 
